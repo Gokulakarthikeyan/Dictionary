@@ -14,12 +14,14 @@ In the project directory, you can run:
 
 ## Step 1: Set up a React project
 Assuming you have Node.js and npm installed, you can create a new React project using Create React App:
+    
     npx create-react-app dictionary-platform
 ## Step 2: Create API keys
 You'll need to obtain API keys from a dictionary service provider. For this let's use the "https://dictionaryapi.dev/".
 
 ## Step 3: Install required dependencies
 In your project directory, install the necessary packages:
+    
     npm install axios
     npm install react
 
